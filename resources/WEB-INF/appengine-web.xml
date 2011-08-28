@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
+  <application>textflowonline</application>
+  <version>1l</version>
+  <static-files>
+    <include path="/**.css" />
+    <include path="/**.jpg" />
+    <include path="/**.ico" />
+    <include path="/**.js" />
+  </static-files>
+  <resource-files/>
+<!--  <property name="javax.xml.xpath.XPathFactory:http://java.sun.com/jaxp/xpath/dom" value="org.apache.xpath.jaxp.XPathFactoryImpl"> 
+  </property>
+-->
+</appengine-web-app>
